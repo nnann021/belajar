@@ -3,8 +3,8 @@
 # Register
 - https://app.getgrass.io/register/?referralCode=AYtNN0N1D0pzSCc
 
-# Command
-- git clone https://github.com/AirDropFamilyIDN/GrassAutoFarming.git
+# Commandhttps://github.com/nnann021/belajar.git
+- git clone 
 - cd GrassAutoFarming
 - pip install -r requirements.txt
 - python run_http.py

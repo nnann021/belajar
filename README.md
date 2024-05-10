@@ -3,7 +3,7 @@
 # Register
 - https://app.getgrass.io/register/?referralCode=AYtNN0N1D0pzSCc
 
-# Commandhttps://github.com/nnann021/belajar.git
+# Command https://github.com/nnann021/belajar.git
 - git clone 
 - cd GrassAutoFarming
 - pip install -r requirements.txt
